@@ -1,0 +1,26 @@
+*{
+	font-family: "黑体";
+}
+h1,h2,h3,h4,h5{
+
+}
+span{
+	display: inline-block;
+}
+.login{
+	position: absolute;
+	margin:0;
+	top: 20%;
+	left: 39%;
+	width:22%;
+	min-height: 30%;
+	border-radius: 10px;
+	border:2px solid;
+}
+.login>*{
+	width:80%;
+	margin:10% 10%;
+}
+/*input{
+	border:1px solid;
+}*/
